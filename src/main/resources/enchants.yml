@@ -1,0 +1,377 @@
+amber:
+  name: '&e&lAmber'
+  lore:
+    - '&7&oCast slowness 1 on your enemy!'
+    - ''
+    - '&aLevels:'
+    - '&9I &7⟶ 3% chance for 3 seconds.'
+    - '&9II &7⟶ 5% chance for 4 seconds.'
+    - '&9III &7⟶ 7% chance for 5 seconds.'
+    - ''
+    - '&7Gear: &fLeggings'
+blackout:
+  name: '&8&lBlackout'
+  lore:
+    - '&7&oCast blindness 1 on your enemy!'
+    - ''
+    - '&aLevels:'
+    - '&9I &7⟶ 5% chance for 3 seconds.'
+    - '&9II &7⟶ 10% chance for 4 seconds.'
+    - '&9III &7⟶ 15% chance for 5 seconds.'
+    - ''
+    - '&7Gear: &fSword, Axe'
+blessed:
+  name: '&6&lBlessed'
+  lore:
+    - '&7&oHealth boost depending on armor!'
+    - ''
+    - '&9Helmet &7⟶ +2 health.'
+    - '&9Chestplate &7⟶ +4 health.'
+    - '&9Leggings &7⟶ +3 health.'
+    - '&9Boots &7⟶ +1 health.'
+    - ''
+    - '&7Gear: &fArmor'
+clearheaded:
+  name: '&c&lClearheaded'
+  lore:
+    - '&7&oImmunity to the dizzy enchant!'
+    - ''
+    - '&7Gear: &fHelmet'
+dash:
+  name: '&a&lDash'
+  lore:
+    - '&7&oProvides you with unlimited speed!'
+    - ''
+    - '&aLevels:'
+    - '&9I &7⟶ Speed 1.'
+    - '&9II &7⟶ Speed 2.'
+    - ''
+    - '&7Gear: &fBoots'
+decay:
+  name: '&8&lDecay'
+  lore:
+    - '&7&oCast wither 1 on your enemy!'
+    - ''
+    - '&aLevels:'
+    - '&9I &7⟶ 3% chance for 3 seconds.'
+    - '&9II &7⟶ 5% chance for 4 seconds.'
+    - '&9III &7⟶ 7% chance for 5 seconds.'
+    - ''
+    - '&7Gear: &fSword, Axe'
+dizzy:
+  name: '&b&lDizzy'
+  lore:
+    - '&7&oCast confusion 1 on your enemy!'
+    - ''
+    - '&aLevels:'
+    - '&9I &7⟶ 5% chance for 3 seconds.'
+    - '&9II &7⟶ 10% chance for 4 seconds.'
+    - '&9III &7⟶ 15% chance for 5 seconds.'
+    - ''
+    - '&7Gear: &fSword, Axe'
+doubleshot:
+  name: '&c&lDouble Shot'
+  lore:
+    - '&7&oDeal double damage to your enemy!'
+    - ''
+    - '&aLevels:'
+    - '&9I &7⟶ 10% chance.'
+    - '&9II &7⟶ 20% chance.'
+    - '&9III &7⟶ 30% chance.'
+    - ''
+    - '&7Gear: &fBow'
+excavator:
+  name: '&a&lExcavator'
+  lore:
+    - '&7&oMine in a greater area!'
+    - ''
+    - '&cDisregards Magnet & Smelter.'
+    - ''
+    - '&aLevels:'
+    - '&9I &7⟶ 3x3 area.'
+    - '&9II &7⟶ 4x4 area.'
+    - ''
+    - '&7Gear: &fPickaxe'
+fierce:
+  name: '&c&lFierce'
+  lore:
+    - '&7&oProvides you with unlimited strength!'
+    - ''
+    - '&aLevels:'
+    - '&9I &7⟶ Strength 1.'
+    - '&9II &7⟶ Strength 2.'
+    - ''
+    - '&7Gear: &fChestplate'
+fusion:
+  name: '&c&lFusion'
+  lore:
+    - '&7&oCast regen 2 or strength 3 on yourself!'
+    - ''
+    - '&aLevels:'
+    - '&9I &7⟶ 2% chance for 6 seconds.'
+    - '&9II &7⟶ 5% chance for 6 seconds.'
+    - '&9III &7⟶ 8% chance for 6 seconds.'
+    - ''
+    - '&7Gear: &fLeggings'
+glassbreaker:
+  name: '&a&lGlassbreaker'
+  lore:
+    - '&7&oInstantly break glass!'
+    - ''
+    - '&7Gear: &fPickaxe'
+harvester:
+  name: '&e&lHarvester'
+  lore:
+    - '&7&oAutomatically harvests a region!'
+    - ''
+    - '&aLevels:'
+    - '&9I &7⟶ 3x3 area.'
+    - '&9II &7⟶ 4x4 area.'
+    - ''
+    - '&7Gear: &fHoe'
+ignite:
+  name: '&c&lIgnite'
+  lore:
+    - '&7&oCast fire on your enemy!'
+    - ''
+    - '&aLevels:'
+    - '&9I &7⟶ 10% chance for 3 seconds.'
+    - '&9II &7⟶ 20% chance for 6 seconds.'
+    - ''
+    - '&7Gear: &fHelmet'
+kamikaze:
+  name: '&c&lKamikaze'
+  lore:
+    - '&7&oBlow yourself up!'
+    - ''
+    - '&7Gear: &fHelmet'
+lightweight:
+  name: '&a&lLightweight'
+  lore:
+    - 'Gives you a jump boost.'
+    - '&7&oProvides you with unlimited jump boost!'
+    - ''
+    - '&aLevels:'
+    - '&9I &7⟶ Jump boost 1.'
+    - '&9II &7⟶ Jump boost 2.'
+    - ''
+    - '&7Gear: &fBoots'
+magnet:
+  name: '&c&lMagnet'
+  lore:
+    - '&7&oItems & XP go straight into your inventory!'
+    - ''
+    - '&7Gear: &7Tools'
+monsterhunter:
+  name: '&c&lMonster Hunter'
+  lore:
+    - '&7&oDeals extra damage to hostile mobs!'
+    - ''
+    - '&aLevels:'
+    - '&9I &7⟶ 1.5x damage.'
+    - '&9II &7⟶ 2.0x damage.'
+    - ''
+    - '&7Gear: &fWeapons'
+multishot:
+  name: '&c&lMultishot'
+  lore:
+    - '&7&oIncreases the amount of arrows shot!'
+    - ''
+    - '&aLevels:'
+    - '&9I &7⟶ 2 arrows.'
+    - '&9II &7⟶ 3 arrows.'
+    - ''
+    - '&7Gear: &fBow'
+nourish:
+  name: '&e&lNourish'
+  lore:
+    - '&7&oGain hunger while moving!'
+    - ''
+    - '&7Gear: &fBoots'
+obbyhaste:
+  name: '&8&lObby Haste'
+  lore:
+    - '&7&oInstantly break obsidian!'
+    - ''
+    - '&7Gear: &fPickaxe'
+pyromancer:
+  name: '&c&lPyromancer'
+  lore:
+    - '&7&oProvides you with unlimited fire resistance.!'
+    - ''
+    - '&7Gear: &fChestplate'
+resurrect:
+  name: '&c&lResurrect'
+  lore:
+    - '&7&oFully repairs the item, but uses the enchant.'
+    - ''
+    - '&7Gear: &fTools'
+secondchance:
+  name: '&b&lSecond Chance'
+  lore:
+    - '&7&oBrings you back to half health!'
+    - ''
+    - '&aLevels:'
+    - '&9I &7⟶ 10% chance.'
+    - '&9II &7⟶ 20% chance.'
+    - '&9III &7⟶ 30% chance.'
+    - ''
+    - '&7Gear: &fBoots'
+secure:
+  name: '&a&lSecure'
+  lore:
+    - '&7&oImmunity to the thief enchant!'
+    - ''
+    - '&7Gear: &fLeggings'
+shield:
+  name: '&a&lShield'
+  lore:
+    - 'Negates poison.'
+    - '&7&oImmunity to the venom enchant!'
+    - ''
+    - '&7Gear: &fChestplate'
+sight:
+  name: '&b&lSight'
+  lore:
+    - '&7&oImmunity to the blackout enchant!'
+    - ''
+    - '&7Gear: &fHelmet'
+smelter:
+  name: '&c&lSmelter'
+  lore:
+    - '&7&oIron & gold are smelted automatically!'
+    - ''
+    - '&7Gear: &fPickaxe'
+thaw:
+  name: '&b&lThaw'
+  lore:
+    - '&7&oImmunity to the amber enchant!'
+    - ''
+    - '&7Gear: &fLeggings'
+thief:
+  name: '&8&lThief'
+  lore:
+    - 'Chance to steal money and XP from your enemy.'
+    - ''
+    - '&aLevels:'
+    - '&9I &7⟶ 3% chance, 2% of bal/XP.'
+    - '&9II &7⟶ 5% chance, 3% of bal/XP.'
+    - '&9III &7⟶ 7% chance, 4% of bal/XP.'
+    - ''
+    - '&7Gear: &fSword, Axe'
+thor:
+  name: '&6&lThor'
+  lore:
+    - '&7&oCast lightning on your enemy!'
+    - ''
+    - '&aLevels:'
+    - '&9I &7⟶ 3% chance.'
+    - '&9II &7⟶ 3% chance, 2 attempts.'
+    - '&9III &7⟶ 3% chance, 3 attempts.'
+    - ''
+    - '&7Gear: &fAxe'
+truehearted:
+  name: '&c&lTrue Hearted'
+  lore:
+    - '&7&oImmunity to the decay enchant!'
+    - ''
+    - '&7Gear: &fChestplate'
+venom:
+  name: '&2&lVenom'
+  lore:
+    - '&7&oCast poison 1 on your enemy!'
+    - ''
+    - '&aLevels:'
+    - '&9I &7⟶ 5% chance for 3 seconds.'
+    - '&9II &7⟶ 10% chance for 4 seconds.'
+    - '&9III &7⟶ 15% chance for 5 seconds.'
+    - ''
+    - '&7Gear: &fSword, Axe'
+impenetrable:
+  name: '&c&lImpenetrable'
+  lore:
+    - '&7&oDamage received is completely nullified!'
+    - ''
+    - '&aLevels:'
+    - '&9I &7⟶ 5% chance.'
+    - '&9II &7⟶ 10% chance.'
+    - '&9III &7⟶ 15% chance.'
+    - ''
+    - '&7Gear: &fChestplate'
+fallresistant:
+  name: '&b&lFall Resistant'
+  lore:
+    - '&7&oImmunity to fall damage.'
+    - ''
+    - '&7Gear: &fBoots'
+knowledge:
+  name: '&6&lKnowledge'
+  lore:
+    - '&7&oMultiplies your experience output!'
+    - ''
+    - '&aLevels:'
+    - '&9I &7⟶ 1.25x EXP boost.'
+    - '&9II &7⟶ 1.50x EXP boost.'
+    - '&9III &7⟶ 1.75x EXP boost.'
+    - '&9IV &7⟶ 2.00x EXP boost.'
+    - ''
+    - '&7Gear: &fPickaxe'
+lumberjack:
+  name: '&c&lLumberjack'
+  lore:
+    - '&7Take down a tree with a single strike!'
+    - ''
+    - '&7Gear: &fAxe'
+attract:
+  name: '&a&lAttract'
+  lore:
+    - '&7&oPull your target towards you!'
+    - ''
+    - '&7Gear: &fFishing Rod'
+lacerate:
+  name: '&c&lLacerate'
+  lore:
+    - '&7&oDeal pure damage to your enemy!'
+    - ''
+    - '&aLevels:'
+    - '&9I &7⟶ 1 health'
+    - '&9II &7⟶ 2 health'
+    - '&9III &7⟶ 3 health'
+    - ''
+    - '&7Gear: &fHoe, Shears'
+contagious:
+  name: '&8&lContagious'
+  lore:
+    - '&7&oMultiplies your experience output.'
+    - ''
+    - '&aLevels:'
+    - '&9I &7⟶ 1.25x'
+    - '&9II &7⟶ 1.50x'
+    - '&9III &7⟶ 1.75x'
+    - '&9IV &7⟶ 2.00x'
+    - ''
+    - '&7Gear: &fPickaxe'
+strike:
+  name: '&c&lStrike'
+  lore:
+    - '&7&oMultiplies your experience output.'
+    - ''
+    - '&aLevels:'
+    - '&9I &7⟶ 1.25x'
+    - '&9II &7⟶ 1.50x'
+    - '&9III &7⟶ 1.75x'
+    - '&9IV &7⟶ 2.00x'
+    - ''
+    - '&7Gear: &fPickaxe'
+roast:
+  name: '&4&lRoast'
+  lore:
+    - '&7&oSomething'
+    - ''
+    - '&aLevels:'
+    - '&9I &7⟶ 1.25x'
+    - '&9II &7⟶ 1.50x'
+    - '&9III &7⟶ 1.75x'
+    - '&9IV &7⟶ 2.00x'
+    - ''
+    - '&7Gear: &fPickaxe'

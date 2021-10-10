@@ -1,0 +1,19 @@
+name: SiriusEnchants
+version: '${project.version}'
+main: me.scill.siriusenchants.SiriusEnchants
+api-version: 1.17
+authors: [ Scill ]
+description: Custom enchants!
+commands:
+  ce:
+    description: Opens up a GUI of custom enchants.
+    aliases: [customenchants, customenchant, customenchs, customench]
+  ceadmin:
+    description: Unlimited access to custom enchants.
+  unenchant:
+    description: Take custom enchants off of items.
+  transmute:
+    description: Exchange 2 or more custom enchants for a chance at a higher tier enchant.
+    aliases: [transmution]
+  sirius:
+    description: Admin info.
